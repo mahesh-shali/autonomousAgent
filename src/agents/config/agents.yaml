@@ -34,4 +34,4 @@ llm:
   model: "llama-3.1-70b-versatile"
   temperature: 0.7
   base_url: "https://api.groq.com/openai/v1"
-  api_key: "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"
+  api_key: "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"    ##edit this new groq api key
